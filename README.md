@@ -1,4 +1,10 @@
 # pigGame #JavaScript #HTML #CSS
+# Rolling dice, hold your score to reach 100 score to beat your opponent. 
 
-2 players rolling a dice, when dice shows 1, player changes.
-Player has option to hold his score. WIN: reach 100 score.
+PLAYERS: 2
+
+CHANGE PLAYER: DICE shows 1 || HOLD SCORE
+
+WIN SCORE: 100
+
+
